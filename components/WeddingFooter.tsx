@@ -42,7 +42,7 @@ export default function WeddingFooter() {
         {/* Bottom row */}
         <div className="pt-8 border-t border-[#3A0208] flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#E8DCC9]/70">
           <div>
-            12th &amp; 13th December 2026 · Pollachi &amp; Coimbatore
+            13th December 2026 · Coimbatore
           </div>
 
           {/* Developed by GenSyx Solutions */}
