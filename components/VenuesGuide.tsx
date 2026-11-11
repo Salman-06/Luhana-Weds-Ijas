@@ -22,7 +22,7 @@ export default function VenuesGuide() {
           Venues &amp; Directions
         </h2>
         <p className="text-sm md:text-base text-[#6B5B52] max-w-2xl mx-auto">
-          We have arranged convenient celebration venues in Pollachi and Coimbatore with dedicated parking, easy transit access, and direct Google Maps navigation.
+          We have arranged convenient celebration venues in Coimbatore with dedicated parking, easy transit access, and direct Google Maps navigation.
         </p>
       </div>
 
