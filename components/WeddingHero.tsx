@@ -130,12 +130,12 @@ export default function WeddingHero() {
         >
           <div className="flex items-center gap-2">
             <Calendar className="w-4 h-4 text-[#D4AF37]" />
-            <span>12 &amp; 13 December 2026</span>
+            <span>13 December 2026</span>
           </div>
           <div className="hidden sm:block text-[#D4AF37]">•</div>
           <div className="flex items-center gap-2">
             <MapPin className="w-4 h-4 text-[#5d040f]" />
-            <span>Pollachi &amp; Coimbatore, Tamil Nadu</span>
+            <span>Coimbatore, Tamil Nadu</span>
           </div>
         </div>
 
