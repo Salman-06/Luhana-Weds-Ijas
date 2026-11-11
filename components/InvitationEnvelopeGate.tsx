@@ -92,7 +92,7 @@ export default function InvitationEnvelopeGate({
           </p>
 
           <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-[#FAF0E1] border border-[#D4AF37]/40 text-xs font-semibold tracking-widest text-[#5d040f] uppercase shadow-xs">
-            <span>December 12 &amp; 13, 2026</span>
+            <span>December 13, 2026</span>
           </div>
         </div>
 
